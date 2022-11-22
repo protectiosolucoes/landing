@@ -1,0 +1,862 @@
+/* PROTECTIO SOLUÇÕES - 2022 */
+/* CSS ZIMBA DESIGN @zimbacomunica */
+/* THIAGO GREGÓRIO @thiagofcgregorio */
+
+
+
+html{scroll-behavior: smooth;}
+:focus {outline:0 !important;}
+body{zoom: 85%}
+
+
+
+
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//* LANDING *//* LANDING *//**//* LANDING *//* LANDING *//* LANDING */
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+
+
+
+/* TOPO */ /* TOPO */ /* TOPO */ /* TOPO */ /* TOPO */ /* TOPO */  /* TOPO */ 
+
+
+.topo{
+	background-color: #000;
+	padding: 5px 0;
+/*	position: fixed;
+    width: 100%;
+    z-index: 100;
+    -webkit-box-shadow: 1px 1px 10px 0px rgba(30, 30, 30, 0.5);
+    -moz-box-shadow: 1px 1px 10px 0px rgba(30, 30, 30, 0.5);
+    box-shadow: 1px 1px 10px 0px rgba(30, 30, 30, 0.5); */
+}
+
+
+.navbar .collapse .navbar-nav .nav-item .nav-link{
+	color: #fff;
+	font-size: 14px;
+	margin: 0 0 3px 0;
+	padding-right: 22px;
+	padding-left: 22px;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link span{
+	color: #f0e600;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link span:hover{
+	color: #fff;
+}
+
+.navbar .collapse .navbar-nav .nav-item .nav-link:hover{
+	color: #f0e600;
+}
+
+
+
+
+
+
+/* APRESENTACAO */ /* APRESENTACAO */ /* APRESENTACAO */ /* APRESENTACAO */
+
+.apresentacao{
+	padding: 55px 0 0 0;
+}
+
+.apresentacao h1{
+	color: #b80411;
+	font-weight: bold;
+}
+
+.apresentacao .col-lg-12{
+	margin: 0 0 65px 0;
+}
+
+.apresentacao h5 span{
+	color: #b80411;
+	font-weight: bold;
+}
+
+.apresentacao h5{
+	margin: 0;
+}
+
+.apresentacao .barra-faixa{
+	text-align: center;
+	background-color: #000;
+	color: #fff;
+	font-weight: bold;
+	padding: 15px 0;
+}
+
+.apresentacao table{
+	margin-top: -8px;
+	margin-bottom: 0;
+	zoom: 88%;
+}
+
+.apresentacao .apresent-final{
+	zoom: 90%;
+}
+
+.apresentacao .apresent-final h3{
+	font-weight: bold;
+	color: #b80411;
+}
+
+.apresentacao .celula-japonesa img{
+	margin-top: 55px;
+}
+
+
+
+
+/* CURSOS */ /* CURSOS */ /* CURSOS */ /* CURSOS */ /* CURSOS */ /* CURSOS */
+
+.cursos{
+	background-color: #000;
+	color: #fff;
+	padding: 70px 0;
+}
+
+.cursos h1{
+	font-weight: bold;
+	margin: 0;
+}
+
+.cursos h4{
+	font-weight: normal;
+	margin: 0 0 55px 0;
+}
+
+.cursos a{
+	font-weight: bold;
+	text-decoration: none;
+	color: #fff;
+}
+
+.cursos a:hover{
+	color: #34af23;
+}
+
+.cursos .lista-cursos1 img{
+	margin: 0 0 17px 0;
+}
+
+.cursos .lista-cursos1 h5{
+	font-weight: normal;
+	border-bottom: 1px solid #fff;
+	padding: 0 0 7px 0;
+	margin: 13px 0 0 0;
+}
+
+.cursos .lista-cursos1 h5 span{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.cursos .botoes-cursos{
+	margin: 88px 0 0 0;
+}
+
+.cursos .botoes-cursos a{
+	text-decoration: none;
+}
+
+.cursos .botoes-cursos h5{
+	background-color: #fff;
+	color: #000;
+	padding: 23px 0;
+	border-radius: 55px;
+}
+
+.cursos .card{
+	background-color: #000;
+}
+
+.cursos .card h4{
+	font-size: 1.25rem;
+	font-weight: normal;
+	border-bottom: 1px solid #fff;
+	padding: 0 0 7px 0;
+	margin: 13px 0 0 0;
+	text-align: left;
+}
+
+.cursos .card h4 span{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+
+
+/* SERVICOS-EMPRESAS */ /* SERVICOS-EMPRESAS */ /* SERVICOS-EMPRESAS */ 
+
+.servicos-empresas{
+	background-image: url(../imgs/banner-2-empresas.jpg);
+	 background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding: 77px 0;
+    color: #fff;
+}
+
+.servicos-empresas h1{
+	font-weight: bold;
+}
+
+.servicos-empresas .titulo-img{
+	margin: 0 0 50px 0;
+}
+
+.servicos-empresas .titulo-img .titulo{
+	float: left;
+}
+
+.servicos-empresas h5{
+	font-weight: normal;
+}
+
+.servicos-empresas a{
+	text-decoration: none;
+}
+
+.servicos-empresas h4{
+	background-color: #b80411;
+	text-align: center;
+	color: #fff;
+	padding: 23px 0 27px 0;
+	border-radius:  55px;
+	font-weight: bold;
+	margin: 44px 0 0 0;
+}
+
+.servicos-empresas img{
+	margin: -15px 0 0 15px;
+}
+
+
+/* LAUDOS */ /* LAUDOS */ /* LAUDOS */ /* LAUDOS */ /* LAUDOS */ /* LAUDOS */ 
+
+.laudos .celula-1{
+	background-color: #0f8830;
+}
+
+.laudos .celula-2{
+	background-color: #0f8830;
+	color: #fff;
+	padding: 55px 0 40px 0;
+}
+
+.laudos .celula-3{
+	background-color: #00652e;
+	color: #fff;
+	padding: 33px 0 33px 33px;
+}
+
+.laudos .celula-4{
+	background-color: #00652e;
+}
+
+.laudos h1{
+	font-weight: bold;
+}
+
+.laudos h1 span{
+	color: #ede03f;
+}
+
+.laudos img{
+	margin: 0 7px 0 0;
+}
+
+
+
+
+/* SOBRE */ /* SOBRE */ /* SOBRE */ /* SOBRE */ /* SOBRE */ /* SOBRE */ 
+
+.sobre{
+	padding: 60px 0;
+}
+
+.sobre h1{
+	font-weight: bold;
+}
+
+.sobre h4{
+	margin: 0 0 70px 0;
+	font-weight: normal;
+}
+
+.sobre h5{
+	font-weight: normal;
+	margin: 0 0 100px 0;
+}
+
+.sobre img{
+	margin: 13px 0 0 0;
+}
+
+
+
+
+/* CONTATO */ /* CONTATO */ /* CONTATO */ /* CONTATO */ /* CONTATO */ 
+
+.contato{
+	background-image: url(../imgs/banner-3-contato.jpg);
+	 background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    padding: 77px 0;
+    color: #000;
+}
+
+.contato h2{
+	color: #b80411;
+	font-weight: bold;
+	margin: 0 0 33px 0;
+}
+
+.contato h3{
+	font-weight: bold;
+	margin: 0 0 15px 0;
+}
+
+.contato h3 img{
+	margin: -15px 0 0 0;
+}
+
+.contato a{
+	text-decoration: none;
+}
+
+.contato .botao-1 h5{
+	background-color: #b80411;
+	padding: 23px 0;
+	color: #fff;
+	border-radius: 55px;
+	font-weight: bold;
+}
+
+.contato hr{
+	margin: 44px 0 33px 0;
+}
+
+.contato button{
+	background-color: #000;
+	padding: 23px 0;
+	color: #fff;
+	border-radius: 55px;
+	font-weight: bold;
+	width: 100%;
+	border: 1px solid #000;
+}
+
+.contato button:hover{
+	border: 1px solid #000;
+	background-color: #000;
+	color: #fff;
+}
+
+
+.contato .texto-final h5{
+	text-align: left;
+	color: #444242;
+	margin: 33px 0 0 0;
+}
+
+
+
+
+
+/* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ /* FOOTER */ 
+
+.footer{
+	background-color: #000;
+	padding: 88px 0;
+	color: #fff;
+}
+
+.footer h3{
+	font-weight: bold;
+}
+
+.rodape-final{
+	background-color: #141414;
+	color: #fff;
+	padding: 8px 0 4px 0;
+}
+
+.rodape-final a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.rodape-final a:hover{
+	color: #f0e600;
+}
+
+.rodape-final h5{
+	font-weight: normal;
+}
+
+
+
+
+
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//* MIDIA QUERIES *//* MIDIA QUERIES *//**//* MIDIA QUERIES *//* MIDIA QUERIES *//* MIDIA QUERIES */
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//* MIDIA QUERIES *//* MIDIA QUERIES *//**//* MIDIA QUERIES *//* MIDIA QUERIES *//* MIDIA QUERIES */
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+/**//**//**//**//**//**//**//**//**//**//**//**//**/
+
+
+@media(max-width: 1200px){
+
+	.apresentacao h4{
+		font-size: 1.3rem;
+	}
+
+	.apresentacao h5{
+		font-size: 1.10rem;
+	}
+
+	.apresentacao table{
+		zoom: 78%;
+	}
+
+	.apresentacao h3{
+		font-size: 1.5rem;
+	}
+
+	.apresentacao .celula-japonesa img{
+		margin-top: 115px;
+	}
+
+	.cursos .lista-cursos1 h5{
+		font-size: 1.10rem;
+	}
+
+	.cursos .card h4{
+		font-size: 1.10rem;
+	}
+
+	.servicos-empresas img{
+		display: none;
+	}
+
+	.servicos-empresas .titulo-img h5{
+		margin: 0 0 55px 0;
+	}
+
+	.servicos-empresas h4 {
+		font-size: 1.3rem;
+	}
+
+	.laudos h1 {
+		font-size: 2.0rem;
+	}
+
+	.laudos h4 {
+		font-size: 1.2rem;
+	}
+
+	.sobre h4{
+		font-size: 1.3rem;
+	}
+
+	.contato .botao-1 h5 {
+		font-size: 1.12rem;
+	}
+
+	.contato .botao-2 h5{
+		font-size: 1.12rem;
+	}
+
+}
+
+
+@media(max-width: 992px){
+
+	.navbar .collapse .navbar-nav .nav-item .nav-link{
+		color: rgba(255,255,255,.5);
+		font-size: 16px;
+		margin: 0;
+		padding: .5rem 1rem;
+		padding-right: 0;
+		border: 0;
+	}
+
+	.apresentacao .reverse1{
+		order: 2;
+	}
+
+	.apresentacao .reverse2{
+		order: 1;
+	}
+
+	.apresentacao h1 {
+		font-size: 2.0rem;
+	}
+
+	.apresentacao h4{
+		font-size: 1.2rem;
+	}
+
+	.apresentacao .apresent-final h3{
+		display: none;
+	}
+
+	.apresentacao .apresent-final img{
+		display: none;
+	}
+
+	.apresentacao .celula-japonesa img{
+		margin-top: 18px;
+	}
+
+	.cursos{
+		text-align: center;
+	}
+
+	.cursos h1{
+		font-size: 2.0rem;
+	}
+
+	.cursos h4{
+		font-size: 1.2rem;
+		margin: 0;
+	}
+
+	.cursos .lista-cursos1 img{
+		margin: 77px 0 0 0;
+	}
+
+	.cursos .card h4{
+		text-align: center;
+	}
+
+	.servicos-empresas{
+    	background-image: url(../imgs/banner-2-empresas-mobile.jpg);
+	}
+
+	.servicos-empresas h1{
+		font-size: 2.0rem;
+	}
+
+	.servicos-empresas h5{
+		font-size: 1.1rem;
+	}
+
+	.servicos-empresas .titulo-img{
+		margin: 0 0 150px 0;
+	}
+
+	.laudos{
+		text-align: center;
+	} 
+
+	.sobre h1{
+		font-size: 2.0rem;
+	}
+
+	.sobre h4{
+		font-size: 1.2rem;
+	}
+
+	.sobre img{
+    	margin:0 0 55px 0;
+	}
+
+	.sobre .simbolo{
+		text-align: center;
+	}
+
+	.contato{
+    	background-image: url(../imgs/banner-3-contato-mobile.jpg);
+	}
+
+	.footer{
+		text-align: center;
+	}
+
+	.footer h3{
+		margin-top: 33px;
+	}
+
+}
+
+
+
+@media(max-width: 768px){
+
+	.apresentacao table{
+    	zoom: 87%;
+	}
+
+	.apresentacao .celula-japonesa{
+		text-align: center;
+	}
+
+	.servicos-empresas .titulo-img h5{
+    	margin: 0 0 55px 0;
+	}
+
+	.servicos-empresas .titulo-img{
+	    margin: 0 0 125px 0;
+	}
+
+	.footer h3{
+    	margin-top: 55px;
+	}
+
+	.rodape-final h5{
+		font-size: 1rem;
+	}
+
+}
+
+
+
+@media(max-width: 600px){
+
+	.cursos .botoes-cursos h5{
+		font-size: 1rem;
+	}
+
+	.laudos h1{
+	    font-size: 1.5rem;
+	}	
+
+	.servicos-empresas h4{
+    	font-size: 1rem;
+	}
+
+	.apresentacao h5{
+		text-align: center;
+	}
+
+	.servicos-empresas .titulo-img{
+		text-align: center;
+	}
+
+}
+
+
+@media(max-width: 450px){
+
+	.apresentacao h1{
+		font-size: 1.7rem;
+	}
+
+	.apresentacao .col-lg-12{
+    	margin: 0 0 40px 0;
+	}
+
+	.cursos h4{
+		margin: 12px 0 0 0;
+	}
+
+	.sobre h4{
+    	margin: 0 0 40px 0;
+    }
+
+    .sobre{
+    	padding: 60px 0 25px 0;
+    }
+
+    .rodape-final h5{
+    	font-size: 0.8rem;
+    }
+
+    .cursos .lista-cursos1 img{
+    	margin: 55px 0 0 0;
+	}
+
+	.cursos .lista-cursos1 img {
+		zoom: 90%;
+	}
+
+}
+
+
+@media(max-width: 385px){
+
+	.apresentacao h1 {
+    	font-size: 1.5rem;
+	}
+
+	.apresentacao h4 {
+    	font-size: 1.0rem;
+	}
+
+	.cursos h1 {
+    	font-size: 1.6rem;
+	}
+
+	.cursos h4 {
+    	font-size: 1.2rem;
+	}
+
+	.cursos .botoes-cursos h5 {
+    	font-size: 0.9rem;
+    	padding: 33px 0;
+	}
+
+	.laudos h1 {
+    	font-size: 1.3rem;
+	}
+
+	.apresentacao h4 {
+    	font-size: 1.0rem;
+	}
+
+	.laudos h4 {
+	    font-size: 1.0rem;
+	    margin: 0 0 23px -33px;
+	}
+
+	.sobre img {
+    	margin: 23px 0 37px 0;
+	}
+
+	.contato .texto-final h5{
+		text-align: center;
+	}
+
+	.sobre h5 {
+    	font-weight: normal;
+    	margin: 33px 0 100px 0;
+	}
+
+	.apresentacao h5 {
+    	font-size: 1rem;
+	}
+
+	.apresentacao table {
+    	zoom: 85%;
+	}
+
+}
+
+@media(max-width: 356px){
+
+	.contato h3 {
+		font-size: 1.5rem;
+	}
+
+	.contato h3 img {
+		zoom: 75%;
+	}
+
+	.contato h5 img {
+		zoom: 75%;
+	}
+
+	.contato .botao-1 h5 {
+    	font-size: 1rem;
+	}
+
+	.contato .botao-2 h5 {
+    	font-size: 1rem;
+	}
+
+}
+
+
+
+@media(max-width: 336px){
+
+	.apresentacao table {
+    	zoom: 80%;
+	}
+
+	.cursos .botoes-cursos h5 {
+    	padding: 45px 0;
+	}
+
+	.servicos-empresas .titulo-img h5 {
+    	margin: 13px 0 55px 0;
+	}
+
+	.laudos h5{
+		font-size: 1.2rem;
+	}
+
+	.cursos .lista-cursos1 h5 {
+    	font-size: 1rem;
+	}
+
+	.cursos .lista-cursos1 h5 span {
+		font-size: 22px;
+	}
+
+	.cursos .card h4 {
+    	font-size: 1rem;
+	}
+
+	.cursos .card h4 span {
+    	font-size: 22px;
+	}
+
+	.footer img{
+		zoom: 90%;
+	}
+
+	.rodape-final h5 {
+    	font-size: 0.7rem;
+	}
+
+}
+
+
+@media(max-width: 321px){
+
+	.topo img{
+		zoom: 90%;
+	}
+
+	.apresentacao table {
+    	zoom: 70%;
+	}
+
+	.cursos .botoes-cursos h5 {
+    	padding: 37px 0;
+	}
+
+	.cursos .botoes-cursos h5 {
+		border-radius: 33px;
+	}
+
+	.servicos-empresas h4{
+		border-radius: 17px;
+	}
+
+	.laudos .celula-2 {
+    	padding: 55px 5px 40px 5px;
+	}
+
+	.sobre .simbolo img{
+		zoom: 80%;
+	}
+
+	.contato .botao-1 h5 {
+    	font-size: 0.9rem;
+	}
+
+		.contato .botao-2 h5 {
+    	font-size: 0.9rem;
+	}
+
+
+}
