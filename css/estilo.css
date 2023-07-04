@@ -192,6 +192,73 @@ body{zoom: 85%}
 
 
 
+.cursos .nova-lista-cursos .card-amarelo{
+	padding: 23px 10px;
+	background-color: #cc7e00;
+	color: #fff;
+	border-radius: 23px;
+	margin: 12px 0;
+}
+
+.cursos .nova-lista-cursos .card-amarelo img{
+	margin-bottom: 18px;
+}
+
+.cursos .nova-lista-cursos .card-amarelo a{
+	text-decoration: none;
+}
+
+.cursos .nova-lista-cursos .card-amarelo h4{
+	padding: 0;
+	margin: 0 0 22px 0;
+	font-size: 1.35rem;
+}
+
+.cursos .nova-lista-cursos .card-amarelo h5{
+	background-color: #fff;
+	color: #cc7e00;
+	padding: 12px 0 14px 0;
+	margin: 0 0 7px 0;
+	border-radius: 55px;
+	font-size: 1.15rem;
+}
+
+
+
+.cursos .nova-lista-cursos .card-vermelho{
+	padding: 23px 10px;
+	background-color: #770002;
+	color: #fff;
+	border-radius: 23px;
+	margin: 12px 0;
+}
+
+.cursos .nova-lista-cursos .card-vermelho img{
+	margin-bottom: 18px;
+}
+
+.cursos .nova-lista-cursos .card-vermelho a{
+	text-decoration: none;
+}
+
+.cursos .nova-lista-cursos .card-vermelho h4{
+	padding: 0;
+	margin: 0 0 22px 0;
+	font-size: 1.35rem;
+}
+
+.cursos .nova-lista-cursos .card-vermelho h5{
+	background-color: #fff;
+	color: #770002;
+	padding: 12px 0 14px 0;
+	margin: 0 0 7px 0;
+	border-radius: 55px;
+	font-size: 1.15rem;
+}
+
+
+
+
 /* SERVICOS-EMPRESAS */ /* SERVICOS-EMPRESAS */ /* SERVICOS-EMPRESAS */ 
 
 .servicos-empresas{
