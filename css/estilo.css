@@ -8,6 +8,25 @@ html{scroll-behavior: smooth;}
 :focus {outline:0 !important;}
 body{zoom: 85%}
 
+.modal {
+  text-align: center;
+  padding: 0!important;
+}
+
+.modal:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -4px;
+}
+
+.modal-dialog {
+  display: inline-block;
+  text-align: left;
+  vertical-align: middle;
+}
+
 
 
 
@@ -365,6 +384,25 @@ body{zoom: 85%}
 
 .sobre img{
 	margin: 13px 0 0 0;
+}
+
+
+
+
+/* ESCRITORIO */ /* ESCRITORIO */ /* ESCRITORIO */ /* ESCRITORIO */ 
+
+.escritorio{
+	padding: 60px 0 80px 0;
+	background-color: #F5F5F5;
+}
+
+.escritorio h1{
+	font-weight: bold;
+}
+
+.escritorio h4{
+	margin: 0 0 50px 0;
+	font-weight: normal;
 }
 
 
